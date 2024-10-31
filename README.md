@@ -30,6 +30,7 @@ El curso ***`2024/2025`*** estoy matriculado en el ciclo formativo de grado supe
 
 ***
 
+## <ins>CURSO 2024/2025</ins>
 ### Asignaturas matriculadas para el curso 2024/2025
 
 - *Lenguajes de marcas y sistemas de gestión de información*
@@ -40,8 +41,9 @@ El curso ***`2024/2025`*** estoy matriculado en el ciclo formativo de grado supe
 - *Digitalización aplicada al sistema productivo*
 - *Inglés*
 	
-Asignaturas convalidadas:
-- Itinerario personal para la empleabilidad
+### Asignaturas convalidadas:
+
+- ~Itinerario personal para la empleabilidad~
 
 ***
 
@@ -49,8 +51,8 @@ Asignaturas convalidadas:
 
 - HTML
 - CSS
-- C++
-- Arduino
+- [![C++](https://img.shields.io/badge/-c++-00599C?logo=cplusplus&logoColor=white&style=for-the-badge)](https://www.online-cpp.com/)
+- [![Arduino](https://img.shields.io/badge/Arduino_IDE-00979D?style=for-the-badge&logo=arduino&logoColor=white)](https://www.arduino.cc/en/software)
 
 ***
 
@@ -58,7 +60,7 @@ Asignaturas convalidadas:
 
 | Frameworks | Bases de datos |
 |:---:       | :---:          |
-| React      | MongoDB        |
+|  [![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)](https://es.react.dev/)      | [![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)](https://www.mongodb.com/es) |
 | Node.js    | Docker         |
 | Express    |                |
 
