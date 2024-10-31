@@ -98,6 +98,14 @@ Correo electrónico <1881433@alu.murciaeduca.es>
     </blockquote>
 </div>
 
+***
+Inspirado en:
+
+https://github.com/jturpinprof/
+
+https://github.com/alexandresanlim/Badges4-README.md-Profile?tab=readme-ov-file
+
+***
 <!---
 Fran-murciaeduca/Fran-murciaeduca es un repositorio ✨ special ✨ porque`README.md` (este archivo) aparece en tu perfil de GitHub.
 Tu puedes clicar en el enlace Preview para ver los cambios.
