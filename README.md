@@ -55,6 +55,17 @@ Asignaturas convalidadas:
 
 ### Stack tecnológico del curso:
 
+- Frameworks:
+
+- React
+- Node.js
+- Express
+
+- Bases de datos:
+
+- MongoDB
+- Docker
+   
 ***
 
 ### Preferencias tecnológicas:
