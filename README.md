@@ -82,11 +82,11 @@ El curso ***`2024/2025`*** estoy matriculado en el ciclo formativo de grado supe
 ### Contacto
 Correo electrónico <1881433@alu.murciaeduca.es>
 
-![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white "No tiene enlace")
-![WhatsApp](https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white "No tiene enlace")
-![Telegram](https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white "No tiene enlace")
-![Youtube](https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white "No tiene enlace")
-![Youtube](https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white "No tiene enlace")
+[![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white "No tiene enlace")](Notieneenlace)
+[![WhatsApp](https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white "No tiene enlace")](Notieneenlace)
+[![Telegram](https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white "No tiene enlace")](Notieneenlace)
+[![Youtube](https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white "No tiene enlace")](Notieneenlace)
+[![Youtube](https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white "No tiene enlace")](Notieneenlace)
 
 ***
 
