@@ -5,16 +5,16 @@
 
 ***
 
-### Entidad educativa
+## 🏢 <ins>Entidad educativa</ins> 🏢
 Centro Integral de Formación Profesional a Distancia "La Conservera" - Región de Murcia
 
 ***
 
-# Nivel Educativo
-
+# 📚 <ins>Nivel Educativo</ins> 📚
+### Actualmente
 El curso ***`2024/2025`*** estoy matriculado en el ciclo formativo de grado superior de [***Desarrollo de Aplicaciones WEB***](https://llegarasalto.com/guiafp/ciclos/IFC-323.html)<br>
 
-## Mis estudios actuales:
+### Mis estudios realizados
 ###	- Ciclos de grado superior
 
 - [Desarrollo de Productos Electrónicos](https://www.todofp.es/que-estudiar/logse/electricidad-electronica/desarrollo-prod-electronicos.html "Obtenido en 2009") cursado en el [IES Miguel de Cervantes](https://main.iesmigueldecervantes.com/ "Ubicado en Murcia")
@@ -50,22 +50,18 @@ Asignaturas convalidadas:
 - HTML
 - CSS
 - C++
+- Arduino
 
 ***
 
 ### Stack tecnológico del curso:
 
-- Frameworks:
+| Frameworks | Bases de datos |
+|:---:       | :---:          |
+| React      | MongoDB        |
+| Node.js    | Docker         |
+| Express    |                |
 
-- React
-- Node.js
-- Express
-
-- Bases de datos:
-
-- MongoDB
-- Docker
-   
 ***
 
 ### Preferencias tecnológicas:
@@ -73,11 +69,32 @@ Asignaturas convalidadas:
 - Full-stack
 - Bases de datos
 
+<div align="center">
+  <blockquote>
+    <i>
+    No cierro las puertas a aprender nada nuevo para convertirme en un experto "Desarrollador WEB"
+    </i>      
+    </blockquote>
+</div>
+
 ***
 
-# Datos de contacto
+### Contacto
 Correo electrónico <1881433@alu.murciaeduca.es>
 
+![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white "No enlazado")
+![WhatsApp](https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white "No enlazado")
+![Telegram](https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white "No enlazado")
+
+***
+
+<div align="center">
+  <blockquote>
+    <i>
+    💻 Produced By Fran 💻
+    </i>      
+    </blockquote>
+</div>
 
 <!---
 Fran-murciaeduca/Fran-murciaeduca es un repositorio ✨ special ✨ porque`README.md` (este archivo) aparece en tu perfil de GitHub.
